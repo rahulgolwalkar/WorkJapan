@@ -3,7 +3,9 @@ WorkJapan assignment in Django
 
 # Installation steps
 
+```sh
 Install python3.5+ , pip , django
+```
 
 User the following commands
 
