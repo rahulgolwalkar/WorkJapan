@@ -11,5 +11,6 @@ $ git clone https://github.com/rahulgolwalkar/WorkJapan.git
 $ cd WorkJapan
 $ python3 manage.py makemigrations
 $ python3 manage.py migrate
+$ python3 manage.py migrate --run-syncdb
 $ python3 manage.py createsuperuser
 $ python3 manage.py runserver
