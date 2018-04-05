@@ -23,3 +23,11 @@ $ python3 manage.py runserver
 
 # API Documentation
 https://documenter.getpostman.com/view/186559/workjapanrahul/RVu4Eov5
+
+
+# Credentials
+```
+admin url : http://workjapan.pikspeak.com:8000/admin
+username : rahulg
+pass : arjunkumar
+```
